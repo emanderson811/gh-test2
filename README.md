@@ -1,3 +1,7 @@
+# Demo Site
+
+A second demo site for CollectionBuilder-GH.
+
 # CollectionBuilder-GH
 
 A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
