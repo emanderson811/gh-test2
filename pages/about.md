@@ -8,9 +8,15 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="isuagdemo_011" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+
+# About this demo site
+
+This is a demo site for a workshop.
+
+{% include feature/card.html header="This is a photograph" text="The card features an image from the collection as a cap" objectid="isuagdemo_013" width="50" centered=true %}
 
 ## About the Collection
 
